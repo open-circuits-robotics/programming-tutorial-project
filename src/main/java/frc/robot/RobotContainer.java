@@ -30,6 +30,7 @@ public class RobotContainer {
   public RobotContainer() {
 
     System.out.println("a change");
+    System.out.println("another change");
 
     // Configure the trigger bindings
     configureBindings();
